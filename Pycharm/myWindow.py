@@ -7,8 +7,10 @@ from PyQt5 import uic
 
 form_class = uic.loadUiType("pixmapTest.ui")[0]
 
-class WindowClass(QMainWindow, form_class) :
+class WindowClass(QMainWindow, form_class):
+    cnt=0
     def __init__(self) :
+
         super().__init__()
         self.setupUi(self)
 
@@ -20,6 +22,8 @@ class WindowClass(QMainWindow, form_class) :
 
     # btn_1이 눌리면 작동할 함수
     def button1Function(self):
+        self.qPixmapFileVar.load("thumbnail0.png")
+        self.label.setPixmap(self.qPixmapFileVar)
         print("얼굴인식을 시작하겠씁니다")
 
 if __name__ == "__main__" :
