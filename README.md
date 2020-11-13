@@ -1,7 +1,7 @@
 # CCTVProject
 ### 집안에 웹캠으로 CCTV (CCTV as a webcam in the house)
 
-<img src="/images/CCTV.gif" width="80%">
+<img src="/images/CCTV.gif" width="50%">
 
 ### :large_orange_diamond: 작품선정 배경
 ----------------------------------------------------------
@@ -28,8 +28,7 @@
 ### :large_orange_diamond: 추가 수행과정
 ----------------------------------------------------------
 #### :heavy_check_mark: 추가 수행일정
-
-<img src="/images/수행일정.PNG" width="60%">
+&nbsp;&nbsp;&nbsp; @얼굴인식,Pymysql 추가!
 
 ### :large_orange_diamond: 시행착오
 ----------------------------------------------------------
