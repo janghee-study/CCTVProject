@@ -1,7 +1,7 @@
 # CCTVProject
 ### 집안에 웹캠으로 CCTV (CCTV as a webcam in the house)
 
-<img src="/images/full.gif" width="80%">
+<img src="/images/CCTV.gif" width="80%">
 
 ### :large_orange_diamond: 작품선정 배경
 ----------------------------------------------------------
