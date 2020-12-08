@@ -23,7 +23,7 @@
 #### :heavy_check_mark: WebCam
 &nbsp;&nbsp;&nbsp; WebCam에 영상 전송, OpenCV 라이브러리 활용
 #### :heavy_check_mark: tensorflow, keras
-&nbsp;&nbsp;&nbsp; 비전학습,restFul???
+&nbsp;&nbsp;&nbsp; 비전학습,restFul????
 
 ### :large_orange_diamond: 추가 수행과정
 ----------------------------------------------------------
