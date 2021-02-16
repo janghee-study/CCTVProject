@@ -23,18 +23,12 @@
 #### :heavy_check_mark: WebCam
 &nbsp;&nbsp;&nbsp; WebCam에 영상 전송, OpenCV 라이브러리 활용
 #### :heavy_check_mark: tensorflow, keras
-&nbsp;&nbsp;&nbsp; 비전학습,restFul
+&nbsp;&nbsp;&nbsp; 비전학습
 
 ### :large_orange_diamond: 추가 수행과정
 ----------------------------------------------------------
 #### :heavy_check_mark: 추가 수행일정
-&nbsp;&nbsp;&nbsp; @얼굴인식,Pymysql 추가!
-
-### :large_orange_diamond: 시행착오
-----------------------------------------------------------
-#### :heavy_check_mark: 시행착오 부분
-
-<img src="/images/시행착오.PNG" width="60%">
+&nbsp;&nbsp;&nbsp; Pymysql
 
 #### :heavy_check_mark: 해결방안
 ----------------------------------------------------------
